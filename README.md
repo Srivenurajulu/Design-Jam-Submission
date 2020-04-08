@@ -1,4 +1,4 @@
-# Design-Jam-Submission-
+# Design-Jam-Submission
 Personal Portfolio website
 
 
